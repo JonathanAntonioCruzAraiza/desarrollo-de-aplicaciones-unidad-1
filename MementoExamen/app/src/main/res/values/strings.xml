@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MementoExamen</string>
+    <string name="rehacer">rehacer</string>
+    <string name="deshacer">deshacer</string>
+    <string name="guardar">guardar</string>
+    <string name="negro">negro</string>
+    <string name="naranja">naranja</string>
+    <string name="azul">azul</string>
+    <string name="verde">verde</string>
+    <string name="rojo">rojo</string>
+    <string name="amarillo">amarillo</string>
+</resources>
